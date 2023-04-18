@@ -1,3 +1,3 @@
-## Hello, I'm Abbinav Kailasam!
+## Hello, I'm Abbinav Sankar Kailasam!
     
-### Follow my GitHub profile if you want some $Math$
+### Follow my GitHub profile if you want some $Data Science$
